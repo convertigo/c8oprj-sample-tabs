@@ -1,0 +1,33 @@
+↑isRoot: true
+inAutoMenu: false
+segment: path-to-tabs
+title: TABS
+↓TabsContainer [ngx.components.UIDynamicElement-1726044700318]: 
+  beanData: '{"ionBean":"Tabs"}'
+  identifier: tabsContainer
+  tagName: ion-tabs
+  ↓TabBar [ngx.components.UIDynamicElement-1726044712082]: 
+    beanData: '{"ionBean":"TabBar"}'
+    identifier: tabBar
+    tagName: ion-tab-bar
+    ↓TabButton [ngx.components.UIDynamicTabButton-1726044720373]: 
+      beanData: '{"ionBean":"TabButton"}'
+      tabpage: sample_tabs.Application.NgxApp.DRINKS
+      tagName: ion-tab-button
+      ↓Icon [ngx.components.UIDynamicElement-1726044758747]: 
+        beanData: '{"ionBean":"Icon","IconName":"source:{\"filter\":\"Icon\",\"project\":\"veolia_tabs\",\"input\":\"\",\"model\":{\"data\":[{\"icon\":\"''pint-outline''\"}],\"path\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"custom\":\"\",\"useCustom\":false}}"}'
+        tagName: ion-icon
+    ↓TabButton1 [ngx.components.UIDynamicTabButton-1726044936748]: 
+      beanData: '{"ionBean":"TabButton"}'
+      tabpage: sample_tabs.Application.NgxApp.FOOD
+      tagName: ion-tab-button
+      ↓Icon [ngx.components.UIDynamicElement-1726044936751]: 
+        beanData: '{"ionBean":"Icon","IconName":"source:{\"filter\":\"Icon\",\"project\":\"veolia_tabs\",\"input\":\"\",\"model\":{\"data\":[{\"icon\":\"''pizza-outline''\"}],\"path\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"custom\":\"\",\"useCustom\":false}}"}'
+        tagName: ion-icon
+    ↓TabButton2 [ngx.components.UIDynamicTabButton-1726045952093]: 
+      beanData: '{"ionBean":"TabButton"}'
+      tabpage: sample_tabs.Application.NgxApp.MUSIC
+      tagName: ion-tab-button
+      ↓Icon [ngx.components.UIDynamicElement-1726045952096]: 
+        beanData: '{"ionBean":"Icon","IconName":"source:{\"filter\":\"Icon\",\"project\":\"veolia_tabs\",\"input\":\"\",\"model\":{\"data\":[{\"icon\":\"''headset-outline''\"}],\"path\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"custom\":\"\",\"useCustom\":false}}"}'
+        tagName: ion-icon
