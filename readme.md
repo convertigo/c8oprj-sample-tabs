@@ -51,17 +51,19 @@ Tabs component usage
 
 #### DRINKS
 
-My First Page as root page
+Tab content Page (DRINKS)
 
 #### FOOD
 
-My First Page as root page
+Tab content Page (FOOD)
 
 #### MUSIC
 
-My First Page as root page
+Tab content Page (MUSIC)
 
 #### TABS
+
+Main Tabs component Page
 
 
 

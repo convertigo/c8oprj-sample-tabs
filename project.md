@@ -29,36 +29,36 @@ Tabs component usage
 <details><summary><span style="color:DarkGoldenRod"><i>Pages</i></span></summary><blockquote><p>
 
 
-<details><summary><b>DRINKS</b> : My First Page as root page</summary><blockquote><p>
+<details><summary><b>DRINKS</b> : Tab content Page (DRINKS)</summary><blockquote><p>
 
 
 ### ![](https://github.com/convertigo/convertigo/blob/develop/engine/src/com/twinsoft/convertigo/beans/ngx/components/images/pagecomponent_color_16x16.png?raw=true "PageComponent") DRINKS
 
-My First Page as root page
+Tab content Page (DRINKS)
 </p></blockquote></details>
 
-<details><summary><b>FOOD</b> : My First Page as root page</summary><blockquote><p>
+<details><summary><b>FOOD</b> : Tab content Page (FOOD)</summary><blockquote><p>
 
 
 ### ![](https://github.com/convertigo/convertigo/blob/develop/engine/src/com/twinsoft/convertigo/beans/ngx/components/images/pagecomponent_color_16x16.png?raw=true "PageComponent") FOOD
 
-My First Page as root page
+Tab content Page (FOOD)
 </p></blockquote></details>
 
-<details><summary><b>MUSIC</b> : My First Page as root page</summary><blockquote><p>
+<details><summary><b>MUSIC</b> : Tab content Page (MUSIC)</summary><blockquote><p>
 
 
 ### ![](https://github.com/convertigo/convertigo/blob/develop/engine/src/com/twinsoft/convertigo/beans/ngx/components/images/pagecomponent_color_16x16.png?raw=true "PageComponent") MUSIC
 
-My First Page as root page
+Tab content Page (MUSIC)
 </p></blockquote></details>
 
-<details><summary><b>TABS</b></summary><blockquote><p>
+<details><summary><b>TABS</b> : Main Tabs component Page</summary><blockquote><p>
 
 
 ### ![](https://github.com/convertigo/convertigo/blob/develop/engine/src/com/twinsoft/convertigo/beans/ngx/components/images/pagecomponent_color_16x16.png?raw=true "PageComponent") TABS
 
-
+Main Tabs component Page
 </p></blockquote></details>
 </p></blockquote></details>
 </p></blockquote></details>

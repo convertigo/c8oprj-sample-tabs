@@ -1,4 +1,4 @@
-comment: My First Page as root page
+comment: Tab content Page (MUSIC)
 preloadPriority: high
 scriptContent: 
   - xmlizable: 
