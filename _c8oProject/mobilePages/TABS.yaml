@@ -32,3 +32,24 @@ title: TABS
       ↓Icon [ngx.components.UIDynamicElement-1726045952096]: 
         beanData: '{"ionBean":"Icon","IconName":"source:{\"filter\":\"Icon\",\"project\":\"veolia_tabs\",\"input\":\"\",\"model\":{\"data\":[{\"icon\":\"''headset-outline''\"}],\"path\":\"\",\"prefix\":\"\",\"suffix\":\"\",\"custom\":\"\",\"useCustom\":false}}"}'
         tagName: ion-icon
+  ↓Event [ngx.components.UIControlEvent-1726822894544]: 
+    attrName: (ionTabsDidChange)
+    eventName: ionTabsDidChange
+    ↓Toast [ngx.components.UIDynamicAction-1726822986625]: 
+      beanData: |
+        '{
+         "ionBean": "ToastAction",
+         "IonColor": "plain:danger",
+         "message": "plain:Tab changed"
+        }'
+  ↓Event1 [ngx.components.UIControlEvent-1726822913935]: 
+    attrName: (ionTabsWillChange)
+    eventName: ionTabsWillChange
+    ↓Toast [ngx.components.UIDynamicAction-1726822991051]: 
+      beanData: |
+        '{
+         "ionBean": "ToastAction",
+         "IonColor": "plain:primary",
+         "message": "plain:Tab Will change",
+         "position": "plain:middle"
+        }'

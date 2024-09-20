@@ -61,6 +61,7 @@ tagName: ion-menu
                   		page.navigate(''/path-to-tabs/DRINKS'', null);
                   		resolve();
                   '
+          ↓page [ngx.components.UIControlVariable-1726761955190]: 
     ↓ListItem1 [ngx.components.UIDynamicElement-1726579388085]: 
       beanData: |
         '{
